@@ -1,32 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://qq497020450.github.io/posts/hello/</loc>
-    <lastmod>2022-09-30T00:41:32+08:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://qq497020450.github.io/en-us/sitemap.xml</loc>
+    
+      <lastmod>2022-09-30T10:06:03+08:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://qq497020450.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
+  <sitemap>
+    <loc>https://qq497020450.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2022-09-30T10:06:03+08:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://qq497020450.github.io/</loc>
-    <lastmod>2022-09-30T00:41:32+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+  <sitemap>
+    <loc>https://qq497020450.github.io/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2022-09-30T10:06:03+08:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://qq497020450.github.io/posts/</loc>
-    <lastmod>2022-09-30T00:41:32+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qq497020450.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+</sitemapindex>
