@@ -47,9 +47,9 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                 personal_token: ${{ secrets.TOKEN }}
-                external_repository: "Ice-Hazymoon/blog-hugo-pages"
+                external_repository: "qq497020450/qq497020450.github.io"
                 publish_branch: master
-                publish_dir: ./public
+                publish_dir: ./docs
                 force_orphan: true
-                user_name: Ice-Hazymoon
+                user_name: qq497020450
                 user_email: imiku.me@gmail.com
